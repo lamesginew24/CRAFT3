@@ -1,4 +1,4 @@
-God is my savior!
+
 steps to push from folder to our repository 
 git init 
 copy our repository location its like master and paste 
